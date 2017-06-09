@@ -53,4 +53,3 @@ d2 = Y - Y.mean()
 r2 = 1 - d1.dot(d1) / d2.dot(d2)
 
 print ("R-squared: {}.".format(r2))
-print("Joannas demo")
